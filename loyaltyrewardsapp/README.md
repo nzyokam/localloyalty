@@ -1,6 +1,6 @@
 # 🏆 Local Loyalty - Phone-Based Loyalty Rewards System
 
-> **Winner of the Vibe Coding Hackathon 2024** - Building Human-Centered, Joy-Driven Solutions Using AI and Low-Code Tools (NO PASSWORD VERY SIMPLE)
+> **Vibe Coding Hackathon 2024** - Building Human-Centered, Joy-Driven Solutions Using AI and Low-Code Tools (NO PASSWORD VERY SIMPLE)
 
 ## To use the website:
 Create a customer first or login as one of these preset customer:
@@ -17,7 +17,7 @@ then creare a business(alternatively use the below logins) and use any of the fe
 3. **Mama Ngina Eatery** - +254744666777
 4. **Bella Beauty Salon** - +254720111222
 
-**Live Site Link** : *https://localloyalty.netlify.app/
+**Live Site Link** : https://localloyalty.netlify.app/
 ## 🚀 Project Overview
 
 **Local Loyalty** is a revolutionary phone-based loyalty rewards system designed specifically for local salons, barbershops, and eateries in Kenya and across Africa. Unlike traditional loyalty apps that require downloads and complex setups, Local Loyalty uses just a phone number to track customer visits and reward loyal customers.
