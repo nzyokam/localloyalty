@@ -12,10 +12,10 @@ Create a customer first or login as one of these preset customer:
 
 then creare a business(alternatively use the below logins) and use any of the features there like awarding points
 
-**Quick Cuts Barbershop** - +254733444555
-**Smochas** - +254723456789
-**Mama Ngina Eatery** - +254744666777
-**Bella Beauty Salon** - +254720111222
+1. **Quick Cuts Barbershop** - +254733444555
+2. **Smochas** - +254723456789
+3. **Mama Ngina Eatery** - +254744666777
+4. **Bella Beauty Salon** - +254720111222
 
 ## 🚀 Project Overview
 
