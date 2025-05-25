@@ -363,7 +363,7 @@ const LandingPage = ({ phoneNumber, setPhoneNumber, handleLogin, loading }) => (
       <div className="mt-12 grid md:grid-cols-3 gap-8 max-w-4xl mx-auto">
         <div className="text-center text-white">
           <div className="w-16 h-16 bg-white bg-opacity-20 rounded-full flex items-center justify-center mx-auto mb-4">
-            <Phone className="w-8 h-8" />
+            <img className="w-8 h-8" src="/phone.svg"/>
           </div>
           <h3 className="text-lg font-semibold mb-2">Simple Registration</h3>
           <p className="opacity-90">
@@ -373,7 +373,7 @@ const LandingPage = ({ phoneNumber, setPhoneNumber, handleLogin, loading }) => (
 
         <div className="text-center text-white">
           <div className="w-16 h-16 bg-white bg-opacity-20 rounded-full flex items-center justify-center mx-auto mb-4">
-            <Star className="w-8 h-8" />
+            <img className="w-8 h-8" src="/star.svg" />
           </div>
           <h3 className="text-lg font-semibold mb-2">Earn Points</h3>
           <p className="opacity-90">
@@ -383,7 +383,7 @@ const LandingPage = ({ phoneNumber, setPhoneNumber, handleLogin, loading }) => (
 
         <div className="text-center text-white">
           <div className="w-16 h-16 bg-white bg-opacity-20 rounded-full flex items-center justify-center mx-auto mb-4">
-            <Gift className="w-8 h-8" />
+            <img className="w-8 h-8" src="/gift.svg"/>
           </div>
           <h3 className="text-lg font-semibold mb-2">Redeem Rewards</h3>
           <p className="opacity-90">

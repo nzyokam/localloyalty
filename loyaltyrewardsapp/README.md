@@ -1,6 +1,21 @@
 # 🏆 Local Loyalty - Phone-Based Loyalty Rewards System
 
-> **Winner of the Vibe Coding Hackathon 2024** - Building Human-Centered, Joy-Driven Solutions Using AI and Low-Code Tools
+> **Winner of the Vibe Coding Hackathon 2024** - Building Human-Centered, Joy-Driven Solutions Using AI and Low-Code Tools (NO PASSWORD VERY SIMPLE)
+
+## To use the website:
+Create a customer first or login as one of these preset customer:
+
+1. **+254787654321** – Mike Kimani
+2. **+254712345678** – Sarah Johnson
+3. **+254756789012** – Lisa Wanjiku
+4. **+254753922945** – Beyonce Knowles
+
+then creare a business(alternatively use the below logins) and use any of the features there like awarding points
+
+**Quick Cuts Barbershop** - +254733444555
+**Smochas** - +254723456789
+**Mama Ngina Eatery** - +254744666777
+**Bella Beauty Salon** - +254720111222
 
 ## 🚀 Project Overview
 
