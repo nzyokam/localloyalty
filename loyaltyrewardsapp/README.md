@@ -17,6 +17,7 @@ then creare a business(alternatively use the below logins) and use any of the fe
 3. **Mama Ngina Eatery** - +254744666777
 4. **Bella Beauty Salon** - +254720111222
 
+**Live Site Link** : *https://localloyalty.netlify.app/
 ## 🚀 Project Overview
 
 **Local Loyalty** is a revolutionary phone-based loyalty rewards system designed specifically for local salons, barbershops, and eateries in Kenya and across Africa. Unlike traditional loyalty apps that require downloads and complex setups, Local Loyalty uses just a phone number to track customer visits and reward loyal customers.
@@ -427,7 +428,5 @@ This project is licensed under the MIT License
 
 Local Loyalty is more than just a loyalty app - it's a movement to empower local businesses across Africa with the tools they need to build lasting customer relationships. Join us in revolutionizing how local businesses connect with their customers!
 
-
----
 
 *Built with ❤️ by Muusi Nguutu Nzyoka as a PLP assignment*
