@@ -10,7 +10,7 @@ Create a customer first or login as one of these preset customer:
 3. **+254756789012** – Lisa Wanjiku
 4. **+254753922945** – Beyonce Knowles
 
-then creare a business(alternatively use the below logins) and use any of the features there like awarding points
+then create a business(alternatively use the below logins) and use any of the features there like checking in customers and awarding points
 
 1. **Quick Cuts Barbershop** - +254733444555
 2. **Smochas** - +254723456789
